@@ -4,7 +4,7 @@ tableextension 50201 "CSD Posted Assembly Header Ext" extends "Posted Assembly H
     {
         field(7000; "CSD Managerial Price"; Decimal)
         {
-            Caption='Cmim Menaxherial';
+            Caption='Managerial Price';
             // TableRelation="Item";
             DataClassification = ToBeClassified;
         }

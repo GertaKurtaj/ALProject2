@@ -4,7 +4,7 @@ tableextension 50200 "CSD ItemExt" extends Item
     {
         field(7000; "CSD Managerial Price"; Decimal)
         {
-            Caption='Cmim Menaxherial';
+            Caption='Managerial Price';
             DataClassification = ToBeClassified;
         }
     }
